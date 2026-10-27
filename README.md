@@ -1,8 +1,8 @@
-##🛡️ NTH Cyber Suite — Professional Security Toolkit
+## 🛡️ NTH Cyber Suite — Professional Security Toolkit
 
 NTH Cyber Suite é um conjunto de ferramentas profissional focado em auditoria de segurança, monitoramento de rede, proteção de arquivos e análise de ameaças em tempo real em sistemas operacionais (incluindo suporte a macOS / Darwin, Linux e Windows).
 
-##📸 Interface da Aplicação
+## 📸 Interface da Aplicação
 <img width="1067" height="664" alt="cyber" src="https://github.com/user-attachments/assets/f1c99f97-dfab-46b7-aeda-b024fc2970ee" />
 
 
@@ -24,47 +24,47 @@ NTH Cyber Suite é um conjunto de ferramentas profissional focado em auditoria d
 +-------------------------------------------------------------------------------+
 
 
-#💡 Recursos Principais (Modules)
+# 💡 Recursos Principais (Modules)
 
 O NTH Cyber Suite conta com módulos integrados para proteção e auditoria completa do ambiente:
 
-#📊 Dashboard
+# 📊 Dashboard
 
 Visão geral do status de segurança do sistema em tempo real.
 
 Telemetria e métricas de desempenho e integridade.
 
-#📁 File Sentinel
+# 📁 File Sentinel
 
 Monitoramento contínuo da integridade de arquivos críticos (File Integrity Monitoring - FIM).
 
 Detecção preventiva contra alterações não autorizadas, ransomware e modificações maliciosas.
 
-#🌐 Network Defense
+# 🌐 Network Defense
 
 Análise de tráfego de rede e inspeção de conexões ativas.
 
 Identificação de comportamentos anômalos e portas expostas.
 
-#📝 Log Hunter (Em destaque na captura)
+# 📝 Log Hunter (Em destaque na captura)
 
 Análise avançada de logs do sistema operacional (System Log Analysis & Threat Detection).
 
 Varredura automatizada em busca de eventos suspeitos, tentativas de intrusão e falhas de autenticação.
 
-#🔍 Process Auditor
+# 🔍 Process Auditor
 
 Mapeamento e auditoria de processos em execução no sistema.
 
 Identificação de processos suspeitos, injeção de código ou consumo atípico de recursos.
 
-#🛡️ System Audit
+# 🛡️  System Audit
 
 Avaliação de conformidade (Hardening) do sistema operacional.
 
 Verificação de configurações de segurança, permissões e vulnerabilidades conhecidas.
 
-#🚀 Tecnologias e Compatibilidade
+# 🚀 Tecnologias e Compatibilidade
 
 Compatibilidade Multiplataforma: Projetado para funcionar com suporte nativo a ambientes Unix/Linux, macOS (Darwin) e Windows.
 
@@ -72,7 +72,7 @@ Interface: Gui amigável com suporte a modo escuro (Dark Mode) e navegação por
 
 Mecanismo de Logs: Parser interno rápido com suporte a filtragem e classificação por severidade ([INFO], [WARNING], [ERROR], [CRITICAL]).
 
-#🛠️ Como Executar
+# 🛠️ Como Executar
 
 Pré-requisitos
 
